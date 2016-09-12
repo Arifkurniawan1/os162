@@ -1,0 +1,3 @@
+#arif_kurniawan
+On week01 I learned how to push and pull folders and files between github account and badak server. 
+I also learned how to use text editor on server (vi & nano). 
