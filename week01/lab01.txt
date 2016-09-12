@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 arif.kurniawan52 StafCS 4096 Sep 12 16:04 .
+drwx--x--x  3 arif.kurniawan52 StafCS 4096 Sep 10 09:30 ..
+drwxr-xr-x  8 arif.kurniawan52 StafCS 4096 Sep 12 16:01 .git
+-rw-r--r--  1 arif.kurniawan52 StafCS    0 Sep 12 16:05 lab01.txt
+-rw-r--r--  1 arif.kurniawan52 StafCS    7 Sep 10 09:30 README.md
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:57 SandBox
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 12 15:58 week00
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:40 week01
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:41 week02
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:42 week03
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:42 week04
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:42 week05
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:43 week06
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:43 week07
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:43 week08
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:43 week09
+drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:44 week10
+/home/fasilkom/mahasiswa/a/arif.kurniawan52/os162/week01
