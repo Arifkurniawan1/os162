@@ -17,3 +17,4 @@ drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:43 week08
 drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:43 week09
 drwxr-xr-x  2 arif.kurniawan52 StafCS 4096 Sep 10 09:44 week10
 /home/fasilkom/mahasiswa/a/arif.kurniawan52/os162/week01
+Today is 12 Sep 2016 at 17:04:17
